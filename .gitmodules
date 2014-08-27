@@ -46,3 +46,12 @@
 [submodule "aur/dwm-custom-aur"]
 	path = aur/dwm-custom-aur
 	url = git@github.com:nubs/dwm-custom-aur
+[submodule "php/docker-composer-build"]
+	path = php/docker-composer-build
+	url = git@github.com:nubs/docker-composer-build
+[submodule "php/docker-php-minimal"]
+	path = php/docker-php-minimal
+	url = git@github.com:nubs/docker-php-minimal
+[submodule "php/docker-phpunit"]
+	path = php/docker-phpunit
+	url = git@github.com:nubs/docker-phpunit
