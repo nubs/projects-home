@@ -1,0 +1,33 @@
+[submodule "php/coordinator"]
+	path = php/coordinator
+	url = git@github.com:nubs/coordinator
+[submodule "php/geometron"]
+	path = php/geometron
+	url = git@github.com:nubs/geometron
+[submodule "php/random-name-generator"]
+	path = php/random-name-generator
+	url = git@github.com:nubs/random-name-generator
+[submodule "php/sensible"]
+	path = php/sensible
+	url = git@github.com:nubs/sensible
+[submodule "php/vectorix"]
+	path = php/vectorix
+	url = git@github.com:nubs/vectorix
+[submodule "php/which"]
+	path = php/which
+	url = git@github.com:nubs/which
+[submodule "php/which-cli"]
+	path = php/which-cli
+	url = git@github.com:nubs/which-cli
+[submodule "talks/getting-sold-on-solid"]
+	path = talks/getting-sold-on-solid
+	url = git@github.com:nubs/getting-sold-on-solid
+[submodule "websites/nickrinehart.com"]
+	path = websites/nickrinehart.com
+	url = git@github.com:nubs/nickrinehart.com
+[submodule "websites/overthemonkey.com"]
+	path = websites/overthemonkey.com
+	url = git@github.com:nubs/overthemonkey.com
+[submodule "websites/spennifer.com"]
+	path = websites/spennifer.com
+	url = git@github.com:nubs/spennifer.com
