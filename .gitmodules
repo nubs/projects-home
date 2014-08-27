@@ -31,3 +31,18 @@
 [submodule "websites/spennifer.com"]
 	path = websites/spennifer.com
 	url = git@github.com:nubs/spennifer.com
+[submodule "aur/docker-arch-build"]
+	path = aur/docker-arch-build
+	url = git@github.com:nubs/docker-arch-build
+[submodule "aur/php-imagick-aur"]
+	path = aur/php-imagick-aur
+	url = git@github.com:nubs/php-imagick-aur
+[submodule "aur/php-oci8-aur"]
+	path = aur/php-oci8-aur
+	url = git@github.com:nubs/php-oci8-aur
+[submodule "aur/php-wddx-aur"]
+	path = aur/php-wddx-aur
+	url = git@github.com:nubs/php-wddx-aur
+[submodule "aur/dwm-custom-aur"]
+	path = aur/dwm-custom-aur
+	url = git@github.com:nubs/dwm-custom-aur
