@@ -61,3 +61,6 @@
 [submodule "websites/bizgolf-ui"]
 	path = websites/bizgolf-ui
 	url = git@github.com:nubs/bizgolf-ui
+[submodule "php/release-notes"]
+	path = php/release-notes
+	url = git@github.com:nubs/release-notes
