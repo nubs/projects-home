@@ -55,3 +55,9 @@
 [submodule "php/docker-phpunit"]
 	path = php/docker-phpunit
 	url = git@github.com:nubs/docker-phpunit
+[submodule "websites/bizgolf"]
+	path = websites/bizgolf
+	url = git@github.com:nubs/bizgolf
+[submodule "websites/bizgolf-ui"]
+	path = websites/bizgolf-ui
+	url = git@github.com:nubs/bizgolf-ui
