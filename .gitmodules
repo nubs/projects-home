@@ -64,3 +64,6 @@
 [submodule "php/release-notes"]
 	path = php/release-notes
 	url = git@github.com:nubs/release-notes
+[submodule "js/garble"]
+	path = js/garble
+	url = git@github.com:nubs/garble
