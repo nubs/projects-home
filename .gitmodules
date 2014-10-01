@@ -64,3 +64,6 @@
 [submodule "js/garble"]
 	path = js/garble
 	url = git@github.com:nubs/garble
+[submodule "js/docker-npm-build"]
+	path = js/docker-npm-build
+	url = git@github.com:nubs/docker-npm-build
