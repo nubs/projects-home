@@ -73,3 +73,6 @@
 [submodule "aur/php-gnupg-aur"]
 	path = aur/php-gnupg-aur
 	url = git@github.com:nubs/php-gnupg-aur
+[submodule "php/sensible-cli"]
+	path = php/sensible-cli
+	url = git@github.com:nubs/sensible-cli
