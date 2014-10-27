@@ -76,3 +76,6 @@
 [submodule "php/sensible-cli"]
 	path = php/sensible-cli
 	url = git@github.com:nubs/sensible-cli
+[submodule "talks/twisty-puzzles-and-group-theory"]
+	path = talks/twisty-puzzles-and-group-theory
+	url = git@github.com:nubs/twisty-puzzles-and-group-theory
