@@ -79,3 +79,6 @@
 [submodule "talks/twisty-puzzles-and-group-theory"]
 	path = talks/twisty-puzzles-and-group-theory
 	url = git@github.com:nubs/twisty-puzzles-and-group-theory
+[submodule "js/docker-npm-onbuild"]
+	path = js/docker-npm-onbuild
+	url = git@github.com:nubs/docker-npm-onbuild
