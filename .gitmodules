@@ -85,3 +85,6 @@
 [submodule "js/docker-npm-gyp-build"]
 	path = js/docker-npm-gyp-build
 	url = git@github.com:nubs/docker-npm-gyp-build
+[submodule "js/docker-npm-gyp-onbuild"]
+	path = js/docker-npm-gyp-onbuild
+	url = git@github.com:nubs/docker-npm-gyp-onbuild
