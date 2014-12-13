@@ -91,3 +91,6 @@
 [submodule "php/docker-composer-onbuild"]
 	path = php/docker-composer-onbuild
 	url = git@github.com:nubs/docker-composer-onbuild
+[submodule "java/docker-maven-build"]
+	path = java/docker-maven-build
+	url = git@github.com:nubs/docker-maven-build
