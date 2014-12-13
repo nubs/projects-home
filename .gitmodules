@@ -94,3 +94,6 @@
 [submodule "java/docker-maven-build"]
 	path = java/docker-maven-build
 	url = git@github.com:nubs/docker-maven-build
+[submodule "java/docker-maven-onbuild"]
+	path = java/docker-maven-onbuild
+	url = git@github.com:nubs/docker-maven-onbuild
