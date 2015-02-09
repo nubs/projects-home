@@ -100,3 +100,6 @@
 [submodule "websites/pull-request-parser"]
 	path = websites/pull-request-parser
 	url = git@github.com:nubs/pull-request-parser
+[submodule "js/npm-slack"]
+	path = js/npm-slack
+	url = git@github.com:nubs/npm-slack
