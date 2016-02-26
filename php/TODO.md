@@ -1,3 +1,4 @@
+* Update docker-compose.yml to version 2.
 * Add related projects to README
 * Look into docker builds to make sure they follow good practices/clean.
 * Add GitHub release version badge?
