@@ -1,4 +1,3 @@
-* Update docker-compose.yml to version 2.
 * Fix docker-compose builds to work better with a clean repository (composer install - maybe nubs/composer-onbuild?, etc.).
 * Add related projects to README
 * Look into docker builds to make sure they follow good practices/clean.
