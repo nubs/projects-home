@@ -33,6 +33,13 @@
 ## release-notes
 * allow for choosing random name generator 
 
+## vectorix
+* parallel/antiparallel/perpendicular.  sylvester js project
+* modulus of a vector
+* reflect a vector
+* rotate around an axis.
+* round/ceil/floor a vector to snap to integer values.
+
 ## Longer term
 * Wercker?
   * Could be nice, but Wercker dropped support for PHP  Future change
