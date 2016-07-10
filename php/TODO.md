@@ -7,7 +7,6 @@
 * Document coveralls in contributing docs?
 * .dockerignore?
 * phpunit strict deprecated
-* Look into build_failure_conditions and such for scrutinizer: https://github.com/dominionenterprises/mongo-queue-php/pull/39/files
 * Check out links in README's for docker hub projects.
 * Look at recommendations [here](https://github.com/blog/2124-kindly-closing-pull-requests) and [here](https://github.com/blog/2128-creating-a-new-contributor-on-ramp) for some things to add.
 
