@@ -26,7 +26,6 @@
 ## sensible-cli
 * tests
 * travis ci
-* scrutinizer
 * coveralls
 
 ## release-notes
