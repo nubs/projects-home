@@ -97,9 +97,6 @@
 [submodule "websites/pull-request-parser"]
 	path = websites/pull-request-parser
 	url = git@github.com:nubs/pull-request-parser
-[submodule "js/npm-slack"]
-	path = js/npm-slack
-	url = git@github.com:nubs/npm-slack
 [submodule "js/docker-node-dind-jenkins-slave"]
 	path = js/docker-node-dind-jenkins-slave
 	url = git@github.com:nubs/docker-node-dind-jenkins-slave
