@@ -103,3 +103,9 @@
 [submodule "js/docker-npm-gyp-build"]
 	path = js/docker-npm-gyp-build
 	url = git@github.com:nubs/docker-npm-gyp-build
+[submodule "js/webextension-uuidgen"]
+	path = js/webextension-uuidgen
+	url = git@github.com:nubs/webextension-uuidgen
+[submodule "php/docker-composer-test-onbuild"]
+	path = php/docker-composer-test-onbuild
+	url = git@github.com:nubs/docker-composer-test-onbuild
